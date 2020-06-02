@@ -1,4 +1,4 @@
-## **Logs and Histories of GIT commanads on terminal**
+## **Logs and Histories of GIT commands on terminal**
 
 **To check git's history**
 `git reflog show`
