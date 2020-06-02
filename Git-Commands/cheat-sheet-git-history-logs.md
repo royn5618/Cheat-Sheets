@@ -1,7 +1,7 @@
 ## **Logs and Histories of GIT commanads on terminal**
 
 **To check git's history**
-`git History`
+`git reflog show`
 
 **To check all pull commands in the terminal**
 `git reflog --date=iso|grep pull`
